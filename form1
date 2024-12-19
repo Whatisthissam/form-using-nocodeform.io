@@ -1,0 +1,11 @@
+<form method="post" action="https://nocodeform.io/f/676424c564c29bfdf26a7bae">
+    <input type="text" name="firstname" placeholder="First name" aria-label="First name" required>
+    <input type="email" name="email" placeholder="Email address" aria-label="Email address" required>
+    <fieldset>
+        <label for="terms">
+            <input type="checkbox" role="switch" id="terms" name="terms">
+            I agree to the <a href="#">Privacy Policy</a>
+        </label>
+    </fieldset>
+    <button type="submit" class="contrast">Subscribe</button>
+</form>
